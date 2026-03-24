@@ -1,6 +1,6 @@
 <br clear="both">
 
-👋 Hi, I’m [@GitHubRosas](https://github.com/GitRosas) <img src="https://profile-counter.glitch.me/GitRosas/count.svg?" align="right" />
+👋 Hi, I’m [@GitHubRosas](https://github.com/GitRosas) <img src="https://profile-counter.deno.dev/GitRosas/count.svg" align="right" />
 
 <details>
   <summary> 👨🏽‍🎓 About Me </summary>
